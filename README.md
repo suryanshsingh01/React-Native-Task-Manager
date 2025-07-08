@@ -35,9 +35,7 @@ npm run android
 yarn android
 ```
 
-
 If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
-
 
 ## Congratulations! :tada:
 
@@ -50,7 +48,7 @@ This is a simple task manager mobile app built using **React Native CLI** for le
 ## Features
 
 - App Icon
-- Splash screen 
+- Splash screen
 - Login screen with hardcoded credentials
 - Bottom tab navigation with two screens:
   - Tasks: Add, delete, and mark tasks complete/incomplete
@@ -82,17 +80,24 @@ src/
 │ └── storage.js
 └── App.js
 
-
 ## 📸 Screenshots
 
+### AppIcon
+
+![AppIcon](./screenshots/AppIcon.jpg)
+
 ### Splash Screen
+
 ![Splash](./screenshots/SplashScreen.jpg)
 
 ### Login
-![Login](./screenshots/LoginScreen%20(1).jpg)
+
+![Login](<./screenshots/LoginScreen%20(1).jpg>)
 
 ### Task Screen
+
 ![Tasks](./screenshots/TaskScreen.jpg)
 
 ### Settings
+
 ![Settings](./screenshots/SettingScreen.jpg)
